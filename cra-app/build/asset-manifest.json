@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/SRS_PROJECT/cra-app/static/js/main.c9232210.js",
+    "index.html": "/SRS_PROJECT/cra-app/index.html",
+    "main.c9232210.js.map": "/SRS_PROJECT/cra-app/static/js/main.c9232210.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c9232210.js"
+  ]
+}
